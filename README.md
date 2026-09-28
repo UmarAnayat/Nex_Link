@@ -91,11 +91,11 @@ Easy to white-label for your product
 ### Interface
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Nex_Link/main/screenshots/01.png" width="240" alt="Screen 01"/>
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Nex_Link/main/screenshots/screenshot1.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Nex_Link/main/screenshots/02.png" width="240" alt="Screen 02"/>
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Nex_Link/main/screenshots/screenshot2.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Nex_Link/main/screenshots/03.png" width="240" alt="Screen 03"/>
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Nex_Link/main/screenshots/screenshot3.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
